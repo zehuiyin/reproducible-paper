@@ -1,0 +1,1 @@
+Use this folder to store files used for conference presentations, seminars, etc.

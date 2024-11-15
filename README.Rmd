@@ -1,0 +1,42 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# reproducible-paper-repo
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+## About this repo
+
+This is a template repository with a folder structure that works well for reproducible papers.
+
+This readme file when knitted will become the landing page of the GitHub repository.
+
+It can contain chunks of code because the source document is Rmd.
+
+For example:
+```{r cars}
+summary(cars)
+```
+
+You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
+
+You can also embed plots, for example:
+
+```{r pressure, echo = FALSE}
+plot(pressure)
+```
+
+In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
+
+The folder structure and the contents of the folders are suggestions and/or examples. Keep or delete as you wish.

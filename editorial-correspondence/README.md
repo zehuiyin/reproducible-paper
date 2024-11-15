@@ -1,0 +1,1 @@
+Save your correspondence with editors, journal production team, etc., in this folder. This keeps track of the peer-review and editorial process.

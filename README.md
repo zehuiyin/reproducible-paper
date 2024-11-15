@@ -1,4 +1,11 @@
 
+*This repository is an activity completed by [Zehui
+Yin](https://zehuiyin.github.io/) for the course [GEOG 712 Reproducible
+Research Workflow with GitHub and
+R](https://academiccalendars.romcmaster.ca/preview_course.php?catoid=55&coid=274877),
+taught by [Dr. Antonio Paez](https://experts.mcmaster.ca/display/paezha)
+in Fall 2024.*
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # reproducible-paper-repo
